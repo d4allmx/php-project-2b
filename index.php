@@ -7,6 +7,7 @@
 
   <body>
     <?php include('inc/header.inc'); ?>
+    <?php include('inc/three-columns.inc/three-columns.inc'); ?>
     <?php include('inc/footer.inc'); ?>
   </body>
 </html>
