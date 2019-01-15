@@ -1,5 +1,5 @@
 <div id="best-offers">
-  <div class="container">
+  <div class="container-fluid">
 
     <div class="row">
 
@@ -30,27 +30,145 @@
     <div class="row">
 
       <div class="col-12 col-sm-6 col-lg-4">
-        
+        <img src="images/home-7-270x150.jpg">
+        <div class="content">
+            <div class="registered">
+              <p>REGISTERED 2017</p>
+            </div>
+            <div class="name-of-vehicle">
+              <h1>2017 Lexus-AMG C63</h1>
+            </div>
+            <div class="price">
+              <p>31,900</p>
+            </div>
+            <div class="distance">
+              <p>12,000 KM</p>
+            </div>
+            <div class="model">
+              <ul>
+                <li>
+                  <a href="#">Used</a>
+                </li>
+                <li>
+                  <a href="#">2015</a>
+                </li>
+                <li>
+                  <a href="#">Automatic</a>
+                </li>
+                <li>
+                  <a href="#">Red</a>
+                </li>
+                <li>
+                  <a href="#">Petrol</a>
+                </li>
+              </ul>
+            </div>
+        </div>
       </div>
 
       <div class="col-12 col-sm-6 col-lg-4">
-        
+        <img src="images/home-4-270x150.jpg">
+        <div class="content">
+            <div class="registered">
+              <p>REGISTERED 2015</p>
+            </div>
+            <div class="name-of-vehicle">
+              
+            </div>
+            <div class="price">
+              
+            </div>
+            <div class="distance">
+              
+            </div>
+            <div class="model">
+              
+            </div>
+        </div>
       </div>
 
       <div class="col-12 col-sm-6 col-lg-4">
-        
+        <img src="images/home-5-270x150.jpg">
+        <div class="content">
+            <div class="registered">
+              <p>REGISTERED 2016</p>
+            </div>
+            <div class="name-of-vehicle">
+              
+            </div>
+            <div class="price">
+              
+            </div>
+            <div class="distance">
+              
+            </div>
+            <div class="model">
+              
+            </div>
+        </div>
       </div>
 
       <div class="col-12 col-sm-6 col-lg-4">
-        
+        <img src="images/home-6-270x150.jpg">
+        <div class="content">
+            <div class="registered">
+              <p>REGISTERED 2015</p>
+            </div>
+            <div class="name-of-vehicle">
+              
+            </div>
+            <div class="price">
+              
+            </div>
+            <div class="distance">
+              
+            </div>
+            <div class="model">
+              
+            </div>
+        </div>
       </div>
 
       <div class="col-12 col-sm-6 col-lg-4">
-        
+        <img src="images/home-8-270x150.jpg">
+        <div class="content">
+            <div class="registered">
+              <p>REGISTERED 2016</p>
+            </div>
+            <div class="name-of-vehicle">
+              
+            </div>
+            <div class="price">
+              
+            </div>
+            <div class="distance">
+              
+            </div>
+            <div class="model">
+              
+            </div>
+        </div>
       </div>
 
       <div class="col-12 col-sm-6 col-lg-4">
-        
+        <img src="images/home-9-270x150.jpg">
+        <div class="content">
+            <div class="registered">
+              <p>REGISTERED 2017</p>
+            </div>
+            <div class="name-of-vehicle">
+              
+            </div>
+            <div class="price">
+              
+            </div>
+            <div class="distance">
+              
+            </div>
+            <div class="model">
+              
+            </div>
+        </div>
       </div>
 
     </div>
