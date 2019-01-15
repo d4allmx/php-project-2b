@@ -11,13 +11,13 @@
 
       <div class="col-12">
         <div class="most-researched">
-          
+          <a href="#">MOST RESEARCHED MANUFACTURERS</a>
         </div>
       </div>
 
       <div class="col-12">
         <div class="latest-vehicles">
-          
+          <a href="#">LATEST VEHICLES ON SALE</a>
         </div>
       </div>
 
@@ -73,16 +73,32 @@
               <p>REGISTERED 2015</p>
             </div>
             <div class="name-of-vehicle">
-              
+              <h1>BMW M6 Sport hybrid</h1>
             </div>
             <div class="price">
-              
+              <p>24,380</p>
             </div>
             <div class="distance">
-              
+              <p>35,000 KM</p>
             </div>
             <div class="model">
-              
+              <ul>
+                <li>
+                  <a href="#">Used</a>
+                </li>
+                <li>
+                  <a href="#">2015</a>
+                </li>
+                <li>
+                  <a href="#">Automatic</a>
+                </li>
+                <li>
+                  <a href="#">White</a>
+                </li>
+                <li>
+                  <a href="#">Petrol</a>
+                </li>
+              </ul>
             </div>
         </div>
       </div>
@@ -94,16 +110,32 @@
               <p>REGISTERED 2016</p>
             </div>
             <div class="name-of-vehicle">
-              
+              <h1>2016 Ferrari Testarosa</h1>
             </div>
             <div class="price">
-              
+              <p>95,900</p>
             </div>
             <div class="distance">
-              
+              <p>99,000 KM</p>
             </div>
             <div class="model">
-              
+              <ul>
+                <li>
+                  <a href="#">Used</a>
+                </li>
+                <li>
+                  <a href="#">2015</a>
+                </li>
+                <li>
+                  <a href="#">Automatic</a>
+                </li>
+                <li>
+                  <a href="#">Red</a>
+                </li>
+                <li>
+                  <a href="#">Petrol</a>
+                </li>
+              </ul>
             </div>
         </div>
       </div>
@@ -115,16 +147,32 @@
               <p>REGISTERED 2015</p>
             </div>
             <div class="name-of-vehicle">
-              
+              <h1>2016 Bugatti Veyron</h1>
             </div>
             <div class="price">
-              
+              <p>98,995</p>
             </div>
             <div class="distance">
-              
+              <p>95,000 KM</p>
             </div>
             <div class="model">
-              
+              <ul>
+                <li>
+                  <a href="#">Used</a>
+                </li>
+                <li>
+                  <a href="#">2015</a>
+                </li>
+                <li>
+                  <a href="#">Automatic</a>
+                </li>
+                <li>
+                  <a href="#">Blue</a>
+                </li>
+                <li>
+                  <a href="#">Petrol</a>
+                </li>
+              </ul>
             </div>
         </div>
       </div>
@@ -136,16 +184,32 @@
               <p>REGISTERED 2016</p>
             </div>
             <div class="name-of-vehicle">
-              
+              <h1>Mercedes - AMG</h1>
             </div>
             <div class="price">
-              
+              <p>19,995</p>
             </div>
             <div class="distance">
-              
+              <p>52,000 KM</p>
             </div>
             <div class="model">
-              
+              <ul>
+                <li>
+                  <a href="#">Used</a>
+                </li>
+                <li>
+                  <a href="#">2015</a>
+                </li>
+                <li>
+                  <a href="#">Automatic</a>
+                </li>
+                <li>
+                  <a href="#">Yellow</a>
+                </li>
+                <li>
+                  <a href="#">Petrol</a>
+                </li>
+              </ul>
             </div>
         </div>
       </div>
@@ -157,16 +221,32 @@
               <p>REGISTERED 2017</p>
             </div>
             <div class="name-of-vehicle">
-              
+              <h1>2017 Mercedes - AMG</h1>
             </div>
             <div class="price">
-              
+              <p>64,308</p>
             </div>
             <div class="distance">
-              
+              <p>210 KM</p>
             </div>
             <div class="model">
-              
+              <ul>
+                <li>
+                  <a href="#">Used</a>
+                </li>
+                <li>
+                  <a href="#">2015</a>
+                </li>
+                <li>
+                  <a href="#">Automatic</a>
+                </li>
+                <li>
+                  <a href="#">Black</a>
+                </li>
+                <li>
+                  <a href="#">Petrol</a>
+                </li>
+              </ul>
             </div>
         </div>
       </div>
