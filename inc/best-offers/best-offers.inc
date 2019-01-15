@@ -7,12 +7,12 @@
           <h1>BEST OFFERS FROM AUTOCLUB</h1>
         </div>
       </div>
-      <div class="col-12">
-        <div class="most-researched">
+      <div class="col-12 col-md-6">
+        <div class="most-researched float-right">
           <a href="#">MOST RESEARCHED MANUFACTURERS</a>
         </div>
       </div>
-      <div class="col-12">
+      <div class="col-12 col-md-6 float-left">
         <div class="latest-vehicles">
           <a href="#">LATEST VEHICLES ON SALE</a>
         </div>
@@ -36,22 +36,12 @@
             <p>12,000 KM</p>
           </div>
           <div class="model">
-            <ul>
-              <li>
-                <a href="#">Used</a>
-              </li>
-              <li>
-                <a href="#">2015</a>
-              </li>
-              <li>
-                <a href="#">Automatic</a>
-              </li>
-              <li>
-                <a href="#">Red</a>
-              </li>
-              <li>
-                <a href="#">Petrol</a>
-              </li>
+            <ul class="nav">
+              <li><a href="#">Used</a></li>
+              <li><a href="#">2015</a></li>
+              <li><a href="#">Automatic</a></li>
+              <li><a href="#">Red</a></li>
+              <li><a href="#">Petrol</a></li>
             </ul>
           </div>
         </div>
@@ -73,22 +63,12 @@
             <p>35,000 KM</p>
           </div>
           <div class="model">
-            <ul>
-              <li>
-                <a href="#">Used</a>
-              </li>
-              <li>
-                <a href="#">2015</a>
-              </li>
-              <li>
-                <a href="#">Automatic</a>
-              </li>
-              <li>
-                <a href="#">White</a>
-              </li>
-              <li>
-                <a href="#">Petrol</a>
-              </li>
+            <ul class="nav">
+              <li><a href="#">Used</a></li>
+              <li><a href="#">2015</a></li>
+              <li><a href="#">Automatic</a></li>
+              <li><a href="#">White</a></li>
+              <li><a href="#">Petrol</a></li>
             </ul>
           </div>
         </div>
@@ -110,22 +90,12 @@
             <p>99,000 KM</p>
           </div>
           <div class="model">
-            <ul>
-              <li>
-                <a href="#">Used</a>
-              </li>
-              <li>
-                <a href="#">2015</a>
-              </li>
-              <li>
-                <a href="#">Automatic</a>
-              </li>
-              <li>
-                <a href="#">Red</a>
-              </li>
-              <li>
-                <a href="#">Petrol</a>
-              </li>
+            <ul class="nav">
+              <li><a href="#">Used</a></li>
+              <li><a href="#">2015</a></li>
+              <li><a href="#">Automatic</a></li>
+              <li><a href="#">Red</a></li>
+              <li><a href="#">Petrol</a></li>
             </ul>
           </div>
         </div>
@@ -147,22 +117,12 @@
             <p>95,000 KM</p>
           </div>
           <div class="model">
-            <ul>
-              <li>
-                <a href="#">Used</a>
-              </li>
-              <li>
-                <a href="#">2015</a>
-              </li>
-              <li>
-                <a href="#">Automatic</a>
-              </li>
-              <li>
-                <a href="#">Blue</a>
-              </li>
-              <li>
-                <a href="#">Petrol</a>
-              </li>
+            <ul class="nav">
+              <li><a href="#">Used</a></li>
+              <li><a href="#">2015</a></li>
+              <li><a href="#">Automatic</a></li>
+              <li><a href="#">Blue</a></li>
+              <li><a href="#">Petrol</a></li>
             </ul>
           </div>
         </div>
@@ -184,22 +144,12 @@
             <p>52,000 KM</p>
           </div>
           <div class="model">
-            <ul>
-              <li>
-                <a href="#">Used</a>
-              </li>
-              <li>
-                <a href="#">2015</a>
-              </li>
-              <li>
-                <a href="#">Automatic</a>
-              </li>
-              <li>
-                <a href="#">Yellow</a>
-              </li>
-              <li>
-                <a href="#">Petrol</a>
-              </li>
+            <ul class="nav">
+              <li><a href="#">Used</a></li>
+              <li><a href="#">2015</a></li>
+              <li><a href="#">Automatic</a></li>
+              <li><a href="#">Yellow</a></li>
+              <li><a href="#">Petrol</a></li>
             </ul>
           </div>
         </div>
@@ -221,22 +171,12 @@
             <p>210 KM</p>
           </div>
           <div class="model">
-            <ul>
-              <li>
-                <a href="#">Used</a>
-              </li>
-              <li>
-                <a href="#">2015</a>
-              </li>
-              <li>
-                <a href="#">Automatic</a>
-              </li>
-              <li>
-                <a href="#">Black</a>
-              </li>
-              <li>
-                <a href="#">Petrol</a>
-              </li>
+            <ul class="nav">
+              <li><a href="#">Used</a></li>
+              <li><a href="#">2015</a></li>
+              <li><a href="#">Automatic</a></li>
+              <li><a href="#">Black</a></li>
+              <li><a href="#">Petrol</a></li>
             </ul>
           </div>
         </div>
