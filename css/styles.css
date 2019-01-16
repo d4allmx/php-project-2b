@@ -43,6 +43,8 @@
   }
 }
 /*Desktop wide*/
-#best-offers .content .model ul {
-  display: inline;
+#best-offers .content .model .nav li {
+  display: inline-block;
+  font-size: 10px;
+  color: black;
 }
