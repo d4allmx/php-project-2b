@@ -145,8 +145,47 @@ body {
   }
 }
 /*Desktop wide*/
+#best-offers .models .category {
+  list-style-type: none;
+}
+#best-offers .models .category li {
+  border-top: 1px solid #D7D5D5;
+  border-left: 3px solid #D7D5D5;
+  padding: 10px;
+  display: block;
+}
+#best-offers .models .category li a {
+  text-decoration: none;
+  color: #404044;
+  font-weight: 400;
+}
+#best-offers .models .category li span {
+  opacity: 0;
+  font-weight: 400;
+}
+#best-offers .models .category li:last-child {
+  border-bottom: 1px solid #D7D5D5;
+}
+#best-offers .models .category li:hover {
+  border-left: 3px solid #000;
+  transition: 1s;
+}
+#best-offers .models .category li:hover a {
+  color: black;
+}
+#best-offers .models .category li:hover span {
+  opacity: 1;
+  float: right;
+  transition: 1.6s;
+}
+#best-offers .content .registered {
+  font-size: 10px;
+}
+#best-offers .content .name-of-vehicle {
+  font-size: 30px;
+}
 #best-offers .content .model .nav li {
   display: inline-block;
-  font-size: 10px;
+  font-size: 8px;
   color: black;
 }
