@@ -1,10 +1,51 @@
 #best-offers{
+  .models{
+    .category{
+      list-style-type: none;
+      li{
+        border-top:1px solid #D7D5D5;
+        border-left: 3px solid #D7D5D5;
+        padding: 10px;
+        display: block;
+        a{
+          text-decoration: none;
+          color: #404044;
+          font-weight: 400;
+        }
+        span{
+          opacity: 0;
+          font-weight: 400;
+        }
+      }
+      li:last-child{
+        border-bottom: 1px solid #D7D5D5;
+      }
+      li:hover{
+        border-left: 3px solid #000;
+        transition: 1s;
+        a{
+        color: black;
+        }
+        span{
+          opacity: 1;
+          float: right;
+          transition: 1.6s;
+        }
+      }
+    }
+  }
   .content{
+    .registered{
+      font-size: 10px;
+    }
+    .name-of-vehicle{
+      font-size: 30px;
+    }
     .model{
       .nav li {
-      display: inline-block;
-      font-size: 10px;
-      color: black;
+        display: inline-block;
+        font-size: 8px;
+        color: black;
       }
     }
   }
