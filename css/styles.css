@@ -145,6 +145,53 @@ body {
   }
 }
 /*Desktop wide*/
+#autozone {
+  padding-top: 80px;
+}
+#autozone .auto {
+  padding-bottom: 80px;
+}
+#autozone .auto h6 {
+  font-size: 20px;
+  padding-bottom: 15px;
+}
+#autozone p,
+#autozone a {
+  color: #666;
+  font-size: 14px;
+}
+#autozone .formulary {
+  padding-bottom: 80px;
+}
+#autozone .formulary .iwidth {
+  width: 100%;
+  color: #666;
+  margin-bottom: 15px;
+  padding: 5px 0 10px 5px;
+}
+#autozone .bbutton {
+  padding: 15px 127px;
+  font-weight: 700;
+  color: white;
+  background-color: black;
+}
+@media (min-width: 768px) {
+  #autozone .bbutton {
+    padding: 12px 50px;
+  }
+  #autozone .bbutton:hover {
+    background-color: #1e39b4;
+  }
+}
+@media (min-width: 992px) {
+  #autozone .sides {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  #autozone .formulary {
+    margin-left: 8%;
+  }
+}
 #best-offers .models .category {
   list-style-type: none;
 }
