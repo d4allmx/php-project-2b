@@ -1,0 +1,112 @@
+/*
+(mm-page) page z-index --> 1
+(my-menu) slide 3
+(header-mobile ) nav-header 2
+*/
+
+#header-desktop{
+  display:none;
+}
+
+#header-mobile{
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0px;
+  height: 80px;
+  background: #fff;
+  overflow: hidden;
+
+  -webkit-transform: none !important;
+  -moz-transform: none !important;
+  -ms-transform: none !important;
+  -o-transform: none !important;
+  transform: none !important;
+  
+  .img-logo{
+    margin: 20px 0 0 20px;
+    width: 200px;
+    height: auto;
+  }
+}
+
+.mm-panel, .mm-panels{
+  background-color: #fff;
+}
+
+#mm-1{
+  margin-top: 36px;
+  font-size: 14px;
+}
+
+.mm-menu a, .mm-listitem a{
+  font-size: 20px;
+  font-family: verdana, sans-serif;
+}
+
+.mm-listitem_vertical{
+  .mm-panel a{
+    font-size: 12px;
+  }
+}
+
+.mm-listitem:after {
+  content: none;
+}
+
+.mm-listitem a:hover{
+  background-color: #181c2a;
+  color: #fff;
+}
+
+.mm-listitem__text, .mm-listitem_opened>.mm-listitem__btn, .mm-listitem_opened>.mm-panel{
+  background-color: white;
+  color: #555;
+}
+
+
+
+@media (min-width: 992px){
+  #header-mobile{
+    display:none;
+  }
+
+  #header-desktop{
+    display:block;
+    width: 100%;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 80px;
+    background: #fff;
+    overflow: hidden;
+    width: 100%;
+    z-index: 999;
+
+    
+    .img-responsive{
+      width: 200px;
+      height: auto;
+      margin: 10px;
+    }
+    
+    a{
+      color: #555;
+      font-weight: 500;
+      font-size: 11px;
+      padding: 5px;
+      text-decoration: none;
+    }
+    
+    a:hover{
+      border-bottom: 2px solid #555;
+    }
+    
+    .col-sm-1, .col-sm-2{
+      margin-top: 40px;
+      text-align: center;
+    }
+  }
+}
