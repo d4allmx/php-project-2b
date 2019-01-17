@@ -367,6 +367,9 @@ body {
   padding: 15px;
   font-size: 10px;
 }
+#best-offers .content .model a {
+  color: black;
+}
 #best-offers .content .info {
   justify-content: space-between;
   padding-bottom: 40px;
