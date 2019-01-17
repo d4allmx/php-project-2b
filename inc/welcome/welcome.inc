@@ -2,6 +2,7 @@
   <div class="container-fluid">
 
       <div class="text-center row">
+        <div class="box">
           <div class="col-12">
             <div class="img">
               <img src="../images/logo-white.png">
@@ -10,9 +11,9 @@
           <div class="col-12">
             <div class="welcome-to-our-website">
                 <div class="title">
-                  <h1>
+                  <h5>
                     WELCOME TO OUR WEBSITE
-                  </h1>
+                  </h5>
                 </div>
                 <div class="line"></div>
             </div>
@@ -31,6 +32,7 @@
               </p>
             </div>
           </div>
+        </div>
       </div>
 
   </div>

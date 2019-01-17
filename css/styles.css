@@ -198,9 +198,13 @@ body {
   background-position: center;
   background-attachment: fixed;
 }
-#welcome .body {
-  padding-left: 200px;
-  padding-right: 200px;
+#welcome .box {
+  padding: 20px;
+}
+#welcome .box .line {
+  width: 30px;
+  height: 3px;
+  background-color: black;
 }
 #best-offers .search-vehicles {
   text-align: center;
