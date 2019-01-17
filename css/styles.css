@@ -192,8 +192,21 @@ body {
     margin-left: 8%;
   }
 }
-#best-offers .serach-vehicles {
+#welcome {
+  background-image: url(../images/parallax.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+#welcome .body {
+  padding-left: 200px;
+  padding-right: 200px;
+}
+#best-offers .search-vehicles {
   text-align: center;
+}
+#best-offers .search-vehicles a {
+  display: inline-block;
 }
 #best-offers .img {
   width: 100%;
