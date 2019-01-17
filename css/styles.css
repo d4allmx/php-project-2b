@@ -112,6 +112,15 @@ body {
 #three-columns span {
   font-size: 10px;
 }
+#three-columns .icon:before {
+  font-family: 'FontAwesome';
+}
+#three-columns .icon.star:before {
+  content: '\f005';
+}
+#three-columns icon.star2:before {
+  content: '\f006';
+}
 #three-columns h4 {
   font-weight: bold;
 }
@@ -145,6 +154,51 @@ body {
   }
 }
 /*Desktop wide*/
+#hero {
+  margin-top: 80px;
+}
+.hero-1 .wrapper-formu {
+  text-align: center;
+  border: 1px solid gray;
+}
+.hero-1 .formu {
+  text-align: left;
+  padding: 25px 15px;
+}
+.hero-1 .formu select {
+  width: 100%;
+  background: transparent;
+}
+.hero-1 .wrapper-select {
+  border: 1px solid black;
+}
+.hero-1 .wrapper-formu span {
+  font-size: 10px;
+  text-transform: uppercase;
+}
+.hero-1 .wrapper-formu button {
+  font-size: 14px;
+  font-family: 'arial';
+  text-transform: uppercase;
+  font-weight: 700;
+  width: 100%;
+  background-color: black;
+  border: 0;
+  padding: 10px;
+  color: white;
+}
+.hero-1 .wrapper-formu button:hover {
+  background-color: #1e39b4;
+}
+.hero-1 .wrapper-formu a {
+  color: #666;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 10px;
+}
+.hero-1 .wrapper-formu a:hover {
+  text-decoration: underline;
+}
 #autozone {
   padding-top: 80px;
 }

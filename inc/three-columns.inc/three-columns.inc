@@ -5,6 +5,11 @@
         <img src="../images/mustang.jpg">
       </div>
       <span>FIRST DRIVE REVIEW</span>
+      <span class="icon star"></span>
+      <span class="icon star"></span>
+      <span class="icon star"></span>
+      <span class="icon star"></span>
+      <span class="icon star"></span>
       <h4>2010 Ford Mustang/YELLOW</h4>
       <hr>
       <p>The 2010 Ford Mustang beats its competitors with top safety scores and a large trunk. A redesigned cabin also helps the Mustang stand out in its class.</p>
