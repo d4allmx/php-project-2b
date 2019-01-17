@@ -145,11 +145,8 @@ body {
   }
 }
 /*Desktop wide*/
-#best-offers .nav-search {
+#best-offers .serach-vehicles {
   text-align: center;
-}
-#best-offers .nav-search li a {
-  list-style-type: none;
 }
 #best-offers .img {
   width: 100%;

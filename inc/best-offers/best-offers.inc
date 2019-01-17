@@ -1,11 +1,9 @@
 <div id="best-offers">
   <div class="container-fluid">
 
-    <div>
-      <ul class="nav-search">
-        <li><a href="">MOST RESEARCHED MANUFACTURERS</a></li>
-        <li><a href="">LATEST VEHICLES ON SALE</a></li>
-      </ul>
+    <div class="search-vehicles">
+      <a href="">MOST RESEARCHED MANUFACTURERS</a>
+      <a href="">LATEST VEHICLES ON SALE</a>
     </div>
 
     <div class="row">
