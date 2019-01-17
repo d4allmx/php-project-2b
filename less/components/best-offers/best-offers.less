@@ -1,16 +1,28 @@
 #best-offers{
+  .nav-search{
+    text-align: center;
+    li{
+      a{
+        list-style-type: none;
+      }
+    }
+  }
+  .img{
+    width: 100%;
+  }
   .models{
     .category{
       list-style-type: none;
+      padding: 0;
       li{
         border-top:1px solid #D7D5D5;
         border-left: 3px solid #D7D5D5;
-        padding: 10px;
-        display: block;
         a{
           text-decoration: none;
           color: #404044;
           font-weight: 400;
+          display: block;
+          width: 100%;
         }
         span{
           opacity: 0;
@@ -29,7 +41,7 @@
         span{
           opacity: 1;
           float: right;
-          transition: 1.6s;
+          transition: 1s;
         }
       }
     }
@@ -37,16 +49,33 @@
   .content{
     .registered{
       font-size: 10px;
+      padding-top: 25px;
+      padding-left: 10px;
     }
     .name-of-vehicle{
       font-size: 30px;
+      padding-bottom: 30px;
+      padding-left: 10px;
+      a{
+        color: black;
+        text-decoration: none;
+      }
     }
     .model{
-      .nav li {
-        display: inline-block;
-        font-size: 8px;
-        color: black;
+      .nav{
+      padding-bottom: 10px;
+        li {
+          font-size: 9px;
+          color: black;
+        }
       }
+    }
+    .info{
+      display: flex;
+      justify-content: space-between;
+      padding-bottom: 40px;
+      padding-left: 10px;
+      padding-right: 10px;
     }
   }
 }
