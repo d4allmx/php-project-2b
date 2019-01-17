@@ -6,9 +6,49 @@
   .box{
     padding: 20px;
     .line{
-      width: 30px;
+      width: 60px;
       height: 3px;
       background-color: black;
+      margin: auto;
+    }
+    .the-first{
+      padding-top:50px;
+    }
+    .body{
+      padding-bottom:30px;
+      padding-top:30px;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  #welcome{
+    .box{
+      padding: 70px;
+    }
+  }
+}
+
+@media (min-width: 992px) {
+  #welcome{
+    .box{
+      padding: 70px;
+      .body{
+        padding-left:120px;
+        padding-right:120px;
+      }
+    }
+  }
+}
+
+@media (min-width: 1200px) {
+  #welcome{
+    .box{
+      padding: 70px;
+    }
+    .body{
+      padding-left:160px;
+      padding-right:160px;
     }
   }
 }
