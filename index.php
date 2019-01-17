@@ -7,6 +7,7 @@
   </head>
   <body>
     <?php include('inc/global/header.inc'); ?>
+    <?php include('inc/hero.inc/hero.inc'); ?>
     <?php include('inc/three-columns.inc/three-columns.inc'); ?>
     <?php include('inc/welcome/welcome.inc'); ?>
     <?php include('inc/best-offers/best-offers.inc'); ?>
