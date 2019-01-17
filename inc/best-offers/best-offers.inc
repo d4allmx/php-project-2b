@@ -42,13 +42,11 @@
                 <span class="distance"><i class="fas fa-road right"></i>12,000 KM</span>
               </div>
               <div class="model">
-                <ul class="nav">
-                  <li><a href="#">Used</a></li>
-                  <li><a href="#">2015</a></li>
-                  <li><a href="#">Automatic</a></li>
-                  <li><a href="#">Red</a></li>
-                  <li><a href="#">Petrol</a></li>
-                </ul>
+                <a href="">Used</a>>
+                <a href="">2015</a>>
+                <a href="">Automatic</a>>
+                <a href="">Red</a>>
+                <a href="">Petrol</a>
               </div>
             </div>
           </div>
@@ -67,13 +65,11 @@
               <span class="distance"><i class="fas fa-road"></i>35,000 KM</span>
             </div>
             <div class="model">
-              <ul class="nav">
-                <li><a href="#">Used</a></li>
-                <li><a href="#">2015</a></li>
-                <li><a href="#">Automatic</a></li>
-                <li><a href="#">White</a></li>
-                <li><a href="#">Petrol</a></li>
-              </ul>
+              <a href="#">Used</a>>
+              <a href="#">2015</a>>
+              <a href="#">Automatic</a>>
+              <a href="#">White</a>>
+              <a href="#">Petrol</a>
             </div>
           </div>
         </div>
@@ -92,13 +88,11 @@
               <span class="distance"><i class="fas fa-road"></i>99,000 KM</span>
             </div>
             <div class="model">
-              <ul class="nav">
-                <li><a href="#">Used</a></li>
-                <li><a href="#">2015</a></li>
-                <li><a href="#">Automatic</a></li>
-                <li><a href="#">Red</a></li>
-                <li><a href="#">Petrol</a></li>
-              </ul>
+              <a href="#">Used</a>>
+              <a href="#">2015</a>>
+              <a href="#">Automatic</a>>
+              <a href="#">Red</a>>
+              <a href="#">Petrol</a>
             </div>
           </div>
         </div>
@@ -117,13 +111,11 @@
               <span class="distance"><i class="fas fa-road"></i>95,000 KM</span>
             </div>
             <div class="model">
-              <ul class="nav">
-                <li><a href="#">Used</a></li>
-                <li><a href="#">2015</a></li>
-                <li><a href="#">Automatic</a></li>
-                <li><a href="#">Blue</a></li>
-                <li><a href="#">Petrol</a></li>
-              </ul>
+              <a href="#">Used</a>>
+              <a href="#">2015</a>>
+              <a href="#">Automatic</a>>
+              <a href="#">Blue</a>>
+              <a href="#">Petrol</a>
             </div>
           </div>
         </div>
@@ -142,13 +134,11 @@
               <span class="distance"><i class="fas fa-road"></i>52,000 KM</span>
             </div>
             <div class="model">
-              <ul class="nav">
-                <li><a href="#">Used</a></li>
-                <li><a href="#">2015</a></li>
-                <li><a href="#">Automatic</a></li>
-                <li><a href="#">Yellow</a></li>
-                <li><a href="#">Petrol</a></li>
-              </ul>
+              <a href="#">Used</a>>
+              <a href="#">2015</a>>
+              <a href="#">Automatic</a>>
+              <a href="#">Yellow</a>>
+              <a href="#">Petrol</a>
             </div>
           </div>
         </div>
@@ -167,13 +157,11 @@
               <span class="distance"><i class="fas fa-road"></i>210 KM</span>
             </div>
             <div class="model">
-              <ul class="nav">
-                <li><a href="#">Used</a></li>
-                <li><a href="#">2015</a></li>
-                <li><a href="#">Automatic</a></li>
-                <li><a href="#">Black</a></li>
-                <li><a href="#">Petrol</a></li>
-              </ul>
+              <a href="#">Used</a>>
+              <a href="#">2015</a>>
+              <a href="#">Automatic</a>>
+              <a href="#">Black</a>>
+              <a href="#">Petrol</a>
             </div>
           </div>
         </div>
