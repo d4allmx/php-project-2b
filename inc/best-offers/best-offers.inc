@@ -38,8 +38,8 @@
                 <h4><a href="">2017 Lexus-AMG C63</a></h4>
               </div>
               <div class="info">
-                <span class="price">31,900</span>
-                <span class="distance">12,000 KM</span>
+                <span class="price"><i class="fas fa-dollar-sign"></i><i class="color">31,900</i></span>
+                <span class="distance"><i class="fas fa-road right"></i>12,000 KM</span>
               </div>
               <div class="model">
                 <ul class="nav">
@@ -63,8 +63,8 @@
               <h4><a href="">BMW M6 Sport hybrid</a></h4>
             </div>
             <div class="info">
-              <span class="price">24,380</span>
-              <span class="distance">35,000 KM</span>
+              <span class="price"><i class="fas fa-dollar-sign"></i><i class="color">24,380</i></span>
+              <span class="distance"><i class="fas fa-road"></i>35,000 KM</span>
             </div>
             <div class="model">
               <ul class="nav">
@@ -88,8 +88,8 @@
               <h4><a href="">2016 Ferrari Testarosa</a></h4>
             </div>
             <div class="info">
-              <span class="price">95,900</span>
-              <span class="distance">99,000 KM</span>
+              <span class="price"><i class="fas fa-dollar-sign"></i><i class="color">95,900</i></span>
+              <span class="distance"><i class="fas fa-road"></i>99,000 KM</span>
             </div>
             <div class="model">
               <ul class="nav">
@@ -113,8 +113,8 @@
               <h4><a href="">2016 Bugatti Veyron</a></h4>
             </div>
             <div class="info">
-              <span class="price">98,995</span>
-              <span class="distance">95,000 KM</span>
+              <span class="price"><i class="fas fa-dollar-sign"></i><i class="color">98,995</i></span>
+              <span class="distance"><i class="fas fa-road"></i>95,000 KM</span>
             </div>
             <div class="model">
               <ul class="nav">
@@ -138,8 +138,8 @@
               <h4><a href="">Mercedes - AMG</a></h4>
             </div>
             <div class="info">
-              <span class="price">19,995</span>
-              <span class="distance">52,000 KM</span>
+              <span class="price"><i class="fas fa-dollar-sign"></i><i class="color">19,995</i></span>
+              <span class="distance"><i class="fas fa-road"></i>52,000 KM</span>
             </div>
             <div class="model">
               <ul class="nav">
@@ -163,8 +163,8 @@
               <h4><a href="">2017 Mercedes - AMG</a></h4>
             </div>
             <div class="info">
-              <span class="price">64,308</span>
-              <span class="distance">210 KM</span>
+              <span class="price"><i class="fas fa-dollar-sign"></i><i class="color">64,308</i></span>
+              <span class="distance"><i class="fas fa-road"></i>210 KM</span>
             </div>
             <div class="model">
               <ul class="nav">

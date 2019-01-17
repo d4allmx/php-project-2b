@@ -256,15 +256,53 @@ body {
   padding: 20px;
 }
 #welcome .box .line {
-  width: 30px;
+  width: 60px;
   height: 3px;
   background-color: black;
+  margin: auto;
+}
+#welcome .box .the-first {
+  padding-top: 50px;
+}
+#welcome .box .body {
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+@media (min-width: 768px) {
+  #welcome .box {
+    padding: 70px;
+  }
+}
+@media (min-width: 992px) {
+  #welcome .box {
+    padding: 70px;
+  }
+  #welcome .box .body {
+    padding-left: 120px;
+    padding-right: 120px;
+  }
+}
+@media (min-width: 1200px) {
+  #welcome .box {
+    padding: 70px;
+  }
+  #welcome .body {
+    padding-left: 160px;
+    padding-right: 160px;
+  }
 }
 #best-offers .search-vehicles {
   text-align: center;
+  padding-bottom: 20px;
 }
 #best-offers .search-vehicles a {
   display: inline-block;
+  font-weight: 500;
+  padding: 10px;
+  font-weight: 600;
+  list-style-type: none;
+  text-decoration: none;
+  color: #000;
 }
 #best-offers .img {
   width: 100%;
@@ -274,6 +312,7 @@ body {
   padding: 0;
 }
 #best-offers .models .category li {
+  padding: 30px;
   border-top: 1px solid #D7D5D5;
   border-left: 3px solid #D7D5D5;
 }
@@ -283,6 +322,7 @@ body {
   font-weight: 400;
   display: block;
   width: 100%;
+  height: 100%;
 }
 #best-offers .models .category li span {
   opacity: 0;
@@ -325,11 +365,21 @@ body {
   color: black;
 }
 #best-offers .content .info {
-  display: flex;
   justify-content: space-between;
   padding-bottom: 40px;
   padding-left: 10px;
   padding-right: 10px;
+  display: flex;
+}
+#best-offers .content .info .price {
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+#best-offers .content .info .price .color {
+  color: blue;
+}
+#best-offers .content .info .distance {
+  letter-spacing: 1px;
 }
 .choose-us {
   background-image: url('../images/cars.jpg');
