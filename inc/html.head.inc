@@ -18,6 +18,7 @@
 <!-- Global Styles from D4ALL CSS -->
 <script src="js/scripts.js"></script>
 <link href="css/styles.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="fonts/fontawesome.otf">
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
