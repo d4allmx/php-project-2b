@@ -42,10 +42,10 @@
                 <span class="distance"><i class="fas fa-road right"></i>12,000 KM</span>
               </div>
               <div class="model">
-                <a href="">Used</a> &bull;
-                <a href="">2015</a> &bull;
-                <a href="">Automatic</a> &bull;
-                <a href="">Red</a> &bull;
+                <a href="">Used</a>
+                <a href="">2015</a>
+                <a href="">Automatic</a>
+                <a href="">Red</a>
                 <a href="">Petrol</a>
               </div>
             </div>
@@ -65,10 +65,10 @@
               <span class="distance"><i class="fas fa-road"></i>35,000 KM</span>
             </div>
             <div class="model">
-              <a href="#">Used</a> &bull;
-              <a href="#">2015</a> &bull;
-              <a href="#">Automatic</a> &bull;
-              <a href="#">White</a> &bull;
+              <a href="#">Used</a>
+              <a href="#">2015</a>
+              <a href="#">Automatic</a>
+              <a href="#">White</a>
               <a href="#">Petrol</a>
             </div>
           </div>
@@ -88,10 +88,10 @@
               <span class="distance"><i class="fas fa-road"></i>99,000 KM</span>
             </div>
             <div class="model">
-              <a href="#">Used</a> &bull;
-              <a href="#">2015</a> &bull;
-              <a href="#">Automatic</a> &bull;
-              <a href="#">Red</a> &bull;
+              <a href="#">Used</a>
+              <a href="#">2015</a>
+              <a href="#">Automatic</a>
+              <a href="#">Red</a>
               <a href="#">Petrol</a>
             </div>
           </div>
@@ -111,10 +111,10 @@
               <span class="distance"><i class="fas fa-road"></i>95,000 KM</span>
             </div>
             <div class="model">
-              <a href="#">Used</a> &bull;
-              <a href="#">2015</a> &bull;
-              <a href="#">Automatic</a> &bull;
-              <a href="#">Blue</a> &bull;
+              <a href="#">Used</a>
+              <a href="#">2015</a>
+              <a href="#">Automatic</a>
+              <a href="#">Blue</a>
               <a href="#">Petrol</a>
             </div>
           </div>
@@ -134,10 +134,10 @@
               <span class="distance"><i class="fas fa-road"></i>52,000 KM</span>
             </div>
             <div class="model">
-              <a href="#">Used</a> &bull;
-              <a href="#">2015</a> &bull;
-              <a href="#">Automatic</a> &bull;
-              <a href="#">Yellow</a> &bull;
+              <a href="#">Used</a>
+              <a href="#">2015</a>
+              <a href="#">Automatic</a>
+              <a href="#">Yellow</a>
               <a href="#">Petrol</a>
             </div>
           </div>
@@ -157,10 +157,10 @@
               <span class="distance"><i class="fas fa-road"></i>210 KM</span>
             </div>
             <div class="model">
-              <a href="#">Used</a> &bull;
-              <a href="#">2015</a> &bull;
-              <a href="#">Automatic</a> &bull;
-              <a href="#">Black</a> &bull;
+              <a href="#">Used</a>
+              <a href="#">2015</a>
+              <a href="#">Automatic</a>
+              <a href="#">Black</a>
               <a href="#">Petrol</a>
             </div>
           </div>

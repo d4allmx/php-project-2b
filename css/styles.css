@@ -375,7 +375,6 @@ body {
   padding-bottom: 40px;
   padding-left: 10px;
   padding-right: 10px;
-  display: flex;
 }
 #best-offers .content .info .price {
   font-size: 20px;
@@ -386,6 +385,7 @@ body {
 }
 #best-offers .content .info .distance {
   letter-spacing: 1px;
+  float: right;
 }
 .choose-us {
   background-image: url('../images/cars.jpg');
