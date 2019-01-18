@@ -630,13 +630,13 @@ body {
   margin-top: 15px;
   margin-bottom: 35px;
 }
-#filter-bar .seg-container .seg .paragraph p {
+#filter-bar .container .row .column .seg .paragraph p {
   text-transform: uppercase;
   font-size: 11px;
   color: #8c8787;
   text-align: left;
 }
-#filter-bar .seg-container .seg .sort-button .btn {
+#filter-bar .container .row .column .seg .sort-button .btn {
   text-transform: capitalize;
   background-color: rgba(255, 255, 255, 0.5);
   border-color: #d5d5d5;
@@ -647,22 +647,22 @@ body {
   padding: 10px 15px;
   margin-bottom: 30px;
 }
-#filter-bar .seg-container .seg .sort-button .btn span .cared {
+#filter-bar .container .row .column .seg .sort-button .btn span .cared {
   color: #d5d5d5;
   font-size: 14px;
   text-align: right;
 }
-#filter-bar .hr {
+#filter-bar .container .row .hr {
   display: inline-block;
 }
-#filter-bar .hr hr {
+#filter-bar .container .row .hr hr {
   color: black;
   height: 1px;
   width: 280px;
   margin-top: 15px;
   margin-bottom: 25px;
 }
-#filter-bar .cta-submit .btn {
+#filter-bar .container .row .cta-submit .btn {
   background-color: #000000;
   border-color: #000000;
   border-width: 1px;
@@ -675,20 +675,20 @@ body {
   padding: 10px 0;
   width: 100%;
 }
-#filter-bar .cta-submit .btn button::hover {
+#filter-bar .container .row .cta-submit .btn button::hover {
   color: #FFFFFF;
   background-color: #1600ff;
 }
-#filter-bar .cta-submit .reset {
+#filter-bar .container .row .cta-submit .reset {
   margin-top: 3px;
 }
-#filter-bar .cta-submit .reset a {
+#filter-bar .container .row .cta-submit .reset a {
   text-align: left;
   text-transform: uppercase;
   font-size: 10px;
   color: #8c8787;
   text-decoration: underline;
 }
-#banner-container {
+#filter-bar .container #banner-container {
   margin: auto;
 }
