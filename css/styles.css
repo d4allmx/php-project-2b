@@ -421,3 +421,274 @@ body {
     display: none;
   }
 }
+#view-bar {
+  background-color: #f5f5f5;
+}
+#view-bar .container .row .view-wrapper p,
+#view-bar .container .row .sort-wrapper p {
+  text-transform: uppercase;
+  font-size: 11px;
+  float: left;
+  padding-top: 27px;
+}
+#view-bar .container .row .select .view-wrapper .buttons .list-button,
+#view-bar .container .row .select .view-wrapper .grid-button {
+  float: right;
+  width: 50px;
+  height: 41px;
+  background-color: #FFFFFF;
+  border-color: #d5d5d5;
+  border-style: solid;
+  border-width: 0.5px;
+  margin-top: 20px;
+}
+#view-bar .container .row .select .view-wrapper .buttons .list-button i,
+#view-bar .container .row .select .view-wrapper .grid-button i {
+  padding-left: 18px;
+  padding-top: 13px;
+  color: #d5d5d5;
+}
+#view-bar .container .row .select .view-wrapper .buttons .list-button i i::hover,
+#view-bar .container .row .select .view-wrapper .grid-button i i::hover {
+  color: #000000;
+}
+#view-bar .container .row .sort .sort-wrapper .buttons .sort-button .btn,
+#view-bar .container .row .sort .sort-wrapper .dropdown .btn {
+  float: right;
+  width: 130px;
+  height: 44px;
+  color: #000000;
+  background-color: #FFFFFF;
+  border-color: #d5d5d5;
+  border-style: solid;
+  border-width: 1px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+#view-bar .container .row .sort .sort-wrapper .buttons .sort-button .btn .cared,
+#view-bar .container .row .sort .sort-wrapper .dropdown .btn .cared {
+  text-align: right;
+  color: #d5d5d5;
+  font-size: 16px;
+}
+#view-bar .container .row .sort .sort-wrapper .buttons .sort-button .btn input::hover,
+#view-bar .container .row .sort .sort-wrapper .dropdown .btn input::hover {
+  color: #FFFFFF;
+  background-color: #000000;
+}
+#view-bar .container .row .col-12 .sort-wrapper .sort-button .dropdown .btn-primary .cared {
+  text-align: right;
+  color: #d5d5d5;
+  font-size: 16px;
+}
+#view-bar .container .row .col-12 .sort-wrapper .sort-button .dropdown .btn-primary .dropdown-menu {
+  color: #000000;
+  text-align: left;
+}
+#car-list {
+  background-color: #FFFFFF;
+  margin: 18px;
+}
+#car-list .back-home a,
+#car-list .back-home p {
+  font-size: 12px;
+  text-transform: capitalize;
+  color: #000000;
+  display: inline;
+}
+#car-list .back-home a {
+  color: #d5d5d5;
+  text-decoration: none;
+}
+#car-list .container .row .cars {
+  padding: 0px;
+}
+#car-list .container .row .cars .seg {
+  border-color: #d5d5d5;
+  border-style: solid;
+  border-width: 1px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  display: table;
+  margin-top: 15px;
+  margin-bottom: 35px;
+}
+#car-list .container .row .cars .seg .car-image img {
+  margin: auto;
+  width: 100%;
+}
+#car-list .container .row .cars .seg .seg-header .title {
+  float: left;
+}
+#car-list .container .row .cars .seg .seg-header .title h3 {
+  font-size: 20px;
+  float: left;
+}
+#car-list .container .row .cars .seg .seg-header .title .subtitle .paragraph p {
+  font-size: 10px;
+  text-transform: uppercase;
+}
+#car-list .container .row .cars .seg .seg-header .title .subtitle .stars {
+  float: left;
+  line-height: 12px;
+}
+#car-list .container .row .cars .seg .seg-header .title .subtitle .stars i {
+  color: #243AAD;
+  font-size: 12px;
+}
+#car-list .container .row .cars .seg .seg-header .price {
+  float: right;
+  color: #243aad;
+  font-size: 22px;
+  padding-top: 30px;
+}
+#car-list .container .row .cars .seg .hr {
+  display: inline-block;
+}
+#car-list .container .row .cars .seg .hr hr {
+  color: black;
+  height: 1px;
+  width: 286px;
+  margin: 0px;
+}
+#car-list .container .row .cars .seg .car-paragraph {
+  display: inline-block;
+}
+#car-list .container .row .cars .seg .car-paragraph p {
+  display: inline-block;
+}
+#car-list .container .row .cars .seg .car-data .data {
+  float: left;
+  width: 50%;
+}
+#car-list .container .row .cars .seg .car-data .data .kilometer .road-icon i {
+  font-size: 12px;
+  line-height: 18px;
+  float: left;
+}
+#car-list .container .row .cars .seg .car-data .data .kilometer .mileage p {
+  font-weight: 500;
+  padding-left: 10px;
+  font-size: 11px;
+  margin-left: 10px;
+}
+#car-list .container .row .cars .seg .car-data .data .car-details {
+  float: left;
+  width: 90%;
+}
+#car-list .container .row .cars .seg .car-data .data .car-details a {
+  color: #8c8787;
+  float: left;
+  font-size: 12px;
+}
+#car-list .container .row .cars .seg .car-data .cta-details {
+  float: right;
+  margin-top: 15px;
+  margin-right: 14px;
+}
+#car-list .container .row .cars .seg .car-data .cta-details .btn {
+  border-color: #000000;
+  border-width: 1px;
+  border-radius: 0px;
+  text-transform: uppercase;
+  font-size: 11px;
+  font-weight: 500;
+}
+#car-list .container .row .cars .seg .car-data .cta-details .btn button::hover {
+  color: #000000;
+  background-color: #FFFFFF;
+}
+/* Tablet */
+@media (min-width: 768px) {
+  #car-list .container {
+    width: 100%;
+  }
+  #car-list .container .row .cars .seg {
+    padding: 3px;
+  }
+  #car-list .container .row .cars .seg .hr hr {
+    width: 330px;
+  }
+}
+#pager-wrapper {
+  margin-left: 20px;
+}
+#pager-wrapper .pagination a {
+  background-color: #000000;
+  color: #FFFFFF;
+  font-size: 10px;
+  margin-right: 6px;
+  margin-top: 0;
+}
+#filter-bar {
+  background-color: #FFFFFF;
+  margin: 18px;
+  border-color: #d5d5d5;
+  border-style: solid;
+  border-width: 1px;
+  padding: 28px;
+  margin-top: 15px;
+  margin-bottom: 35px;
+}
+#filter-bar .container .row .column .seg .paragraph p {
+  text-transform: uppercase;
+  font-size: 11px;
+  color: #8c8787;
+  text-align: left;
+}
+#filter-bar .container .row .column .seg .sort-button .btn {
+  text-transform: capitalize;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-color: #d5d5d5;
+  color: #000000;
+  border-radius: 0;
+  width: 100%;
+  text-align: left;
+  padding: 10px 15px;
+  margin-bottom: 30px;
+}
+#filter-bar .container .row .column .seg .sort-button .btn span .cared {
+  color: #d5d5d5;
+  font-size: 14px;
+  text-align: right;
+}
+#filter-bar .container .row .hr {
+  display: inline-block;
+}
+#filter-bar .container .row .hr hr {
+  color: black;
+  height: 1px;
+  width: 280px;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+#filter-bar .container .row .cta-submit .btn {
+  background-color: #000000;
+  border-color: #000000;
+  border-width: 1px;
+  border-radius: 0px;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+  padding: 10px 0;
+  width: 100%;
+}
+#filter-bar .container .row .cta-submit .btn button::hover {
+  color: #FFFFFF;
+  background-color: #1600ff;
+}
+#filter-bar .container .row .cta-submit .reset {
+  margin-top: 3px;
+}
+#filter-bar .container .row .cta-submit .reset a {
+  text-align: left;
+  text-transform: uppercase;
+  font-size: 10px;
+  color: #8c8787;
+  text-decoration: underline;
+}
+#filter-bar .container #banner-container {
+  margin: auto;
+}
