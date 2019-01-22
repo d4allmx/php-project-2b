@@ -370,6 +370,9 @@ body {
 #best-offers .content .model a {
   color: black;
 }
+#best-offers .content .model a:after {
+  contnent: '&Bull';
+}
 #best-offers .content .info {
   justify-content: space-between;
   padding-bottom: 40px;
@@ -676,7 +679,7 @@ body {
   margin-right: 6px;
   margin-top: 0;
 }
-#filter-bar {
+#filter-bar .container .row .column {
   background-color: #FFFFFF;
   margin: 18px;
   border-color: #d5d5d5;
